@@ -1,0 +1,10 @@
+*{
+    color: rgb(56, 175, 243);
+    font-family: Impact;
+}
+body{
+    background-image: url("./pics/headphone.png") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 700px;
+}
